@@ -67,4 +67,15 @@ p{
 }
 table{
   background-color: rgba(227, 225, 233, 0.8);
+  
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  text-decoration: none;
+  color: yellow;
+}
+a:visited{
+  text-decoration: none;
 }
